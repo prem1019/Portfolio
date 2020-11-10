@@ -1,0 +1,35 @@
+
+#theForm {
+ 
+color:white;
+display: table;
+padding: 10px;
+background-color: #898989;
+border: solid 2px black;
+align-items:center;
+border-radius: 5px;
+}
+ 
+.row {
+display: table-row;
+border-radius:15px;
+a
+}
+ 
+.row label {
+display: table-cell;
+padding: 2px;
+text-align:right;
+ 
+}
+ 
+.row input {
+display: table-cell;
+padding: 2px;
+}
+section{
+	padding-left: 50% 50% 50% 50%;
+}
+h2{
+	text-align: center;
+}
